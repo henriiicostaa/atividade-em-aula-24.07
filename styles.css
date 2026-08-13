@@ -1,0 +1,38 @@
+button{
+    width: 300px;
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+}
+
+button#soma{
+    background: red;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
+
+button#sub{
+    background: blue;
+    color: rgb(5, 5, 5);
+    cursor: pointer;
+    font-size: 20px;
+}
+
+button#card{
+    background: purple;
+    color: rgb(5, 5, 5);
+    cursor: pointer;
+    font-size: 20px;
+}
+
+p{
+    background: green;
+    width: 300px;
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+    border-radius: 30px;
+}
